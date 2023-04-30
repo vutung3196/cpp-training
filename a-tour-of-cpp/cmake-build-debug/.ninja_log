@@ -1,0 +1,11 @@
+# ninja log v5
+54	1529	7045756634468329	CMakeFiles/a_tour_of_cpp.dir/chapter1/newsquare.cpp.obj	efb6b1880055b0d2
+2	317	7045757478267727	build.ninja	abbe2c7fafbdb3a7
+8	875	7045757370424965	CMakeFiles/a_tour_of_cpp.dir/main.cpp.obj	88452588d3d9a8e3
+6	1514	7045756634246963	CMakeFiles/a_tour_of_cpp.dir/chapter1/square.cpp.obj	55d08027c58a2d30
+5	517	7045757047192488	CMakeFiles/a_tour_of_cpp.dir/chapter1/helloworld.cpp.obj	af4520de703578c9
+21	1511	7045756634235371	CMakeFiles/a_tour_of_cpp.dir/Square.cpp.obj	a0d91fd32af73905
+518	742	7045757049324563	a_tour_of_cpp.exe	7fb458a739efab8a
+1	272	7045757478267727	build.ninja	abbe2c7fafbdb3a7
+3	596	7045757484738097	CMakeFiles/a_tour_of_cpp.dir/chapter1/Square.cpp.obj	be5f145e29726e08
+597	804	7045757486731220	a_tour_of_cpp.exe	489468196c584203
