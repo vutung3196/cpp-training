@@ -1,2 +1,2 @@
 # cpp-training
-My C++ learning resouces
+My C++ learning resources
